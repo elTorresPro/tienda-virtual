@@ -1,0 +1,242 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Chaqueta Acolchada Con Capucha",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Chaqueta Punto Cremallera",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 140
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Chaqueta de Plumón de Pato",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 75
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Casaca Pluma Hombre",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 45
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Chamarra Cold Terrain",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 185
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Abrigo de Lana Desmontable",
+        "imagen": "./img/abrigos/06.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 40
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Sudadera",
+        "imagen": "./img/abrigos/07.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 24
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "Abrigo Extra Largo de Lana",
+        "imagen": "./img/abrigos/08.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 115
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Gamuza Tripulacion Heather",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 68
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta con Estampado",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 6
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta de Manga Corta ",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Polo Basic Rojo",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 8
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Playera con Cuello Redondo",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Playera con Cuello Redondo Rojo",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 132
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Polo Manga Corta Verde Esmeralda",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Playera con Cuello Redondo Turquesa",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 250
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Vestir Hombre",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 55
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Hombre Corte Fiel",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 48
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Jean Slim Hombre Wrangler",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 51
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Twill Slim",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 37
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalones Stafford",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 140
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Jogger en Drill",
+        "imagen": "./img/pantalones/06.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Pantalón Regular Fit Verde",
+        "imagen": "./img/pantalones/07.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 40
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Kansas Pantalon",
+        "imagen": "./img/pantalones/08.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 78
+    }
+]
